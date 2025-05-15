@@ -16,4 +16,4 @@ the game.
 Use the `WASD`keys to move around.
 Press `ESC` to exit the program.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e8acd057-2523-43c4-a6a4-e12de6c07fde)
