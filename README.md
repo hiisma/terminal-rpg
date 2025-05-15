@@ -11,3 +11,9 @@ With that the user can navigate around the map.
 
 It implements a very simple and rudimental engine to run
 the game.
+
+## How to navigate.
+Use the `WASD`keys to move around.
+Press `ESC` to exit the program.
+
+![Uploading image.png…]()
